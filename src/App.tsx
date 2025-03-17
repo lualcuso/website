@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-      <div>
+      <div className="bg-lcgreen">
         <h4>Luis Cubillo</h4>
         <p>This is Luis Cubillo's Website</p>
       </div>
